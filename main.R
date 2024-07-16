@@ -4,6 +4,8 @@
 # 1. 基本統計量をCSV出力します。
 # 2. 平均±SD、ヒストグラム、蜂群図、バイオリン図をプロットします。
 #
+# 2nd リリース: 2024年7月16日 (Ver. 2.0)
+# GitHubで公開しました。
 # 必須ライブラリ: tidyverse, ggbeeswarm, moments
 #  tidyverse: https://www.tidyverse.org
 #   データのモデル化、変換、視覚化のコアパッケージ
